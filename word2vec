@@ -1,0 +1,5 @@
+This folder contains the followings
+  1. Python implementation for the word2vec analysis
+  2. Python codes for drawing the PCA graph that plots the words according to the embedded vector
+  3. Sample patent data for the word2vec analysis
+  
